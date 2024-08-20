@@ -21,6 +21,6 @@ This project is about #VSLAM (i.e., #SLAM systems based on visual information) u
 
 The main takeaway from this project is the direct approach, i.e., using pixel intensities rather than feature points. This is similar to LSD-SLAM, DSO, and SVO, but for 360-camera projection. 
 
-![[2024-08-20 09.17.50.gif]]
+![](gif.gif)
 
-![[cover.webp]]
+![cover](cover.webp)
