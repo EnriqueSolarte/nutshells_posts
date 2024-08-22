@@ -22,6 +22,7 @@ This project is about #VSLAM (i.e., #SLAM systems based on visual information) u
 
 The main takeaway from this project is the direct approach, i.e., using pixel intensities rather than feature points. This is similar to LSD-SLAM, DSO, and SVO, but for 360-camera projection. 
 
+<<<<<<< HEAD:current-nutshell/360vo/index.md
 
 ## [YOUTUBE VIDEO (HERE)](https://www.youtube.com/watch?v=6FZXevqsEzs) 
 
@@ -29,3 +30,8 @@ The main takeaway from this project is the direct approach, i.e., using pixel in
 
 ![x](gif.gif)
 ![x](cover.webp)
+=======
+![](gif.gif)
+
+![cover](cover.webp)
+>>>>>>> origin/main:current-nutshell/360VO Direct Visual Odometry using 360-images/index.md
