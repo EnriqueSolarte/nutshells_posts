@@ -4,7 +4,7 @@ author: EnriqueSolarte
 date: 2024-08-23
 draft: false
 cover: coverSingle360Camera.webp
-categories: 2024-08-1
+categories: [2024-08-1]
 tags: ['ICRA-2022', 'VSLAM', 'SLAM', '360-cameras']
 ---
 
