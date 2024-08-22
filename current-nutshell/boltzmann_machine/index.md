@@ -3,7 +3,7 @@ title: "Boltzmann Machine by Artem Kirsanov"
 author: Enrique Solarte
 date: 2024-08-22
 draft: false
-cover: posts/current-nutshell/boltzmann_machine/cover.webp
+cover: assets/images/boltzmann_machine/boltzmann_machine.webp
 categories:
   - 'Current nutshell'
 tags:

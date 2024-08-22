@@ -3,7 +3,7 @@ title: "360VO: Visual Odometry Using A Single 360 Camera"
 author: Enrique Solarte
 date: 2024-08-20
 draft: false
-cover: posts/current-nutshell/360vo/cover.webp
+cover: assets/images/360vo_cover.webp
 categories:
   - 'Current nutshell'
 tags:
