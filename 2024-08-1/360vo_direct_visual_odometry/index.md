@@ -1,17 +1,17 @@
 ---
 title: 360VO Direct Visual Odometry
 author: EnriqueSolarte
-date: 2024-08-22
+date: 2024-08-23
 draft: false
 cover: coverSingle360Camera.webp
 categories: 2024-08-1
-tags: ['ICRA-2022', 'pin', 'VSLAM', 'SLAM', '360-cameras']
+tags: ['ICRA-2022', 'VSLAM', 'SLAM', '360-cameras']
 ---
 
 
-![alt text](https://img.youtube.com/vi/6FZXevqsEzs/0.jpg)](https://www.youtube.com/watch?v=6FZXevqsEzs)
+[![alt text](https://img.youtube.com/vi/6FZXevqsEzs/0.jpg)](https://www.youtube.com/watch?v=6FZXevqsEzs)
 
-This paper was presented in #ICRA-2022  #pin 
+This paper was presented in #ICRA-2022 
 
 This project is about #VSLAM (i.e., #SLAM systems based on visual information) using #360-cameras (also known as panorama cameras)
 
