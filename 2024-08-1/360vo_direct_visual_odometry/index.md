@@ -5,7 +5,7 @@ draft: false
 cover: coverSingle360Camera.webp 
 categories: [2024-08-1] 
 tags: ['ICRA-2022', 'VSLAM', 'SLAM', '360-cameras'] 
-date: 2024-08-23T07:18:38+08:00 
+date: 2024-08-23T07:26:41+08:00 
 ---
 
 [![alt text](https://img.youtube.com/vi/6FZXevqsEzs/0.jpg)](https://www.youtube.com/watch?v=6FZXevqsEzs)
